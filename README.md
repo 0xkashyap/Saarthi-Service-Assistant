@@ -2,6 +2,8 @@
 
 Saarthi is a mobile-first, non-governmental prototype for helping people find an appropriate public service from a plain-English problem statement. It uses only a local mock dataset and fictional records.
 
+### [Click here](https://saarthi-service-assistant.netlify.app) to try out the tool or scroll below to install it locally.
+
 ## Run locally
 
 ```bash
